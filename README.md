@@ -12,7 +12,6 @@
 
   Currently working on Logs-system | Learning Python 
   <br/>
-  "Octopuses have three hearts" 🐙
 
 </div>
 
