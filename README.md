@@ -8,6 +8,8 @@
     🔭 Currently working on <b>Logs-system</b> | 🌱 Learning <b>Python</b>
     <br />
     <i>"Clean code, hot coffee, and bugs afraid of me. ☕💻🔥"</i>
+    <br />
+    <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="Lucario" width="60" />
   </p>
 </div>
 
@@ -23,7 +25,7 @@
 
 <br />
 
-<h3 align="center">📊 Stats <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="Lucario" width="35" /></h3>
+<h3 align="center">📊 Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RuanRai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
