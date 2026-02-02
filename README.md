@@ -9,11 +9,10 @@
     <br />
     <i>"Clean code, hot coffee, and bugs afraid of me. ☕💻🔥"</i>
     <br />
+    <br />
     <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="Lucario" width="60" />
   </p>
 </div>
-
-<br />
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
