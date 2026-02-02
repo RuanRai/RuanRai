@@ -39,14 +39,6 @@
 
 <br />
 
-<details>
-  <summary align="center">🏆 GitHub Trophies (Click to Expand)</summary>
-  <div align="center">
-    <br />
-    <img src="https://github-profile-trophy.vercel.app/?username=RuanRai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </div>
-</details>
-
 <div align="center">
   <br />
   <a href="https://github.com/RuanRai">
