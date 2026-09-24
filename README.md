@@ -5,7 +5,7 @@
 <div align="center">
   <br />
   <p align="center">
-    🔭 Currently working on <b>Logs-system</b> | 🌱 Learning <b>Python</b>
+     Currently working on <b>Logs-system</b> |  Learning <b>Python</b>
     <br />
     <i>"Clean code, hot coffee, and bugs afraid of me. ☕💻🔥"</i>
     <br />
